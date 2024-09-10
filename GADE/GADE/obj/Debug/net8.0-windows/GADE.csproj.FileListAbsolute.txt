@@ -1,0 +1,16 @@
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.Form1.resources
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.csproj.GenerateResource.cache
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.AssemblyInfoInputs.cache
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.AssemblyInfo.cs
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.csproj.CoreCompileInputs.cache
+C:\Users\radzi\source\repos\GADE\GADE\bin\Debug\net8.0-windows\GADE.exe
+C:\Users\radzi\source\repos\GADE\GADE\bin\Debug\net8.0-windows\GADE.deps.json
+C:\Users\radzi\source\repos\GADE\GADE\bin\Debug\net8.0-windows\GADE.runtimeconfig.json
+C:\Users\radzi\source\repos\GADE\GADE\bin\Debug\net8.0-windows\GADE.dll
+C:\Users\radzi\source\repos\GADE\GADE\bin\Debug\net8.0-windows\GADE.pdb
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.dll
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\refint\GADE.dll
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.pdb
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\GADE.genruntimeconfig.cache
+C:\Users\radzi\source\repos\GADE\GADE\obj\Debug\net8.0-windows\ref\GADE.dll
